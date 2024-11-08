@@ -13,9 +13,6 @@ nav:
         - Cover 4: football\coverages\attacking_coverages\cover4\cover4.md
         - Cover 4 Match: football\coverages\attacking_coverages\cover4_match\cover4_match.md
         - Cover 6: football\coverages\attacking_coverages\cover6\cover6.md
-    - Offensive Formations
-    - Defensive Formations
-    - Route Combos
 theme:
   name: material
   features:
