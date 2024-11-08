@@ -3,16 +3,16 @@ nav:
   - Home: index.md
   - Football:
     - Coverages:
-      - Identifying the Coverage: football\coverages\identifying_cov.md
+      - Identifying the Coverage: football/coverages/identifying_cov.md
       - Attacking the Coverage:
-        - Cover 0: football\coverages\attacking_coverages\cover0\cover0.md
-        - Cover 1: football\coverages\attacking_coverages\cover1\cover1.md
-        - Cover 2: football\coverages\attacking_coverages\cover2\cover2.md
-        - Cover 2 Man: football\coverages\attacking_coverages\cover2_man\cover2_man.md
-        - Cover 3: football\coverages\attacking_coverages\cover3\cover3.md
-        - Cover 4: football\coverages\attacking_coverages\cover4\cover4.md
-        - Cover 4 Match: football\coverages\attacking_coverages\cover4_match\cover4_match.md
-        - Cover 6: football\coverages\attacking_coverages\cover6\cover6.md
+        - Cover 0: football/coverages/attacking_coverages/cover0/cover0.md
+        - Cover 1: football/coverages/attacking_coverages/cover1/cover1.md
+        - Cover 2: football/coverages/attacking_coverages/cover2/cover2.md
+        - Cover 2 Man: football/coverages/attacking_coverages/cover2_man/cover2_man.md
+        - Cover 3: football/coverages/attacking_coverages/cover3/cover3.md
+        - Cover 4: football/coverages/attacking_coverages/cover4/cover4.md
+        - Cover 4 Match: football/coverages/attacking_coverages/cover4_match/cover4_match.md
+        - Cover 6: football/coverages/attacking_coverages/cover6/cover6.md
 theme:
   name: material
   features:
